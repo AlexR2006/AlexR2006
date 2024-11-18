@@ -1,16 +1,16 @@
 ## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://youtube.com/@alexanderromeroramirez">Alexander</a> 👋</h1>
+</div>
+<img src="https://imgur.com/gallery/r-e-d-e-s-t-h-e-t-i-c-eRKXJO6#/t/redaesthetic">
 
-<!--
-**AlexR2006/AlexR2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Github Principiante ⭐ 
+- 📲 Programador en desarrollo
+<br>
