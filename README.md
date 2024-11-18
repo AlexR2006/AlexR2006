@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://youtube.com/@alexanderromeroramirez">Alexander</a> 👋</h1>
 </div>
