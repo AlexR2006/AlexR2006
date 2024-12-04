@@ -1,5 +1,5 @@
-<div align="left">
-<h1 align="left">Hola, soy <a href="https://youtube.com/@alexanderromeroramirez">Alexander</a> 👋</h1>
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://youtube.com/@alexanderromeroramirez">Alexander</a> 👋</h1>
 </div>
 <img src="https://content.wepik.com/statics/258024040/preview-page0.jpg">
 
